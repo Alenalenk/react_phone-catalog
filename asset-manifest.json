@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "./static/css/main.46540d51.css",
-    "main.js": "./static/js/main.20bf4d74.js",
+    "main.css": "./static/css/main.432d5e4a.css",
+    "main.js": "./static/js/main.cd1a0c22.js",
     "static/media/Mont-SemiBold.woff2": "./static/media/Mont-SemiBold.95ab478c134f9e9da545.woff2",
     "static/media/Mont-Regular.woff2": "./static/media/Mont-Regular.efd082cbd3e10b7e9c88.woff2",
     "static/media/Mont-Bold.woff2": "./static/media/Mont-Bold.8b7a4e0626328dd44205.woff2",
     "static/media/heart-like.svg": "./static/media/heart-like.40477fe0fa486830b14a.svg",
     "static/media/home.svg": "./static/media/home.61c669dec91922931a67.svg",
+    "static/media/search.svg": "./static/media/search.79f78541399c8dbea1c1.svg",
     "static/media/heart-like-disabled.svg": "./static/media/heart-like-disabled.d554a185325e4fb06092.svg",
     "static/media/cart-close.svg": "./static/media/cart-close.a7b1ced7ed3e49385129.svg",
     "static/media/plus.svg": "./static/media/plus.8519972be0ca323eba65.svg",
@@ -21,11 +22,11 @@
     "static/media/minus-disabled.svg": "./static/media/minus-disabled.a6cc83682174ac68c902.svg",
     "static/media/minus.svg": "./static/media/minus.0365a13e7f5baa53bce8.svg",
     "index.html": "./index.html",
-    "main.46540d51.css.map": "./static/css/main.46540d51.css.map",
-    "main.20bf4d74.js.map": "./static/js/main.20bf4d74.js.map"
+    "main.432d5e4a.css.map": "./static/css/main.432d5e4a.css.map",
+    "main.cd1a0c22.js.map": "./static/js/main.cd1a0c22.js.map"
   },
   "entrypoints": [
-    "static/css/main.46540d51.css",
-    "static/js/main.20bf4d74.js"
+    "static/css/main.432d5e4a.css",
+    "static/js/main.cd1a0c22.js"
   ]
 }
